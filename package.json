@@ -7,7 +7,12 @@
   "engines": {
     "vscode": "^1.20.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadawais/shot.git"
+  },
   "categories": ["Other"],
+  "keywords": ["shot", "hotshot"],
   "activationEvents": ["onCommand:hotshot.sayHello"],
   "main": "./out/extension",
   "contributes": {

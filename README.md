@@ -1,5 +1,7 @@
 # HotShot Hello
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadawais/shot.svg)](https://greenkeeper.io/)
+
 A simple plugin to learn VS Code Extension Development
 
 ## Features

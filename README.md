@@ -17,4 +17,4 @@ Shows an information message if you try to run `HotShot Hello` from the command 
 
 First release.
 
-**Enjoy!**# shot
+**Enjoy!**
